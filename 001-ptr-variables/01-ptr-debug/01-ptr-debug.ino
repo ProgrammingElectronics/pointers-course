@@ -1,26 +1,30 @@
-
 /*
-  1.  This one is for rote memorization.  
-      Pretend like you are Bart Simpson in detention and write the sentence,
-      or say it out as many times as necessary until it spills out of your brain with no effort:
+  The intern Mike wrote this, but it has some issues...
 
-      “A pointer is a variable that holds the memory address of another variable.”
+  Can you:
 
-  2.  Make a list of common data types and the corresponding number of bytes they take up in memory on an Arduino UNO.  
-      For example,  integer - 2 bytes, char 1 byte
+    1. Correct his errors
+    2. Apply standard naming conventions (feel free to adjust variable names as you deem fit)
+*/
 
-  3.  Open a new Arduino sketch and declare pointers of each of the types you have in your table above.  
-      Remember, when declaring a pointer variable, the * asterisk (aka dereference / indirection operator) 
-      is used before the name to let the compiler know this will be a pointer variable.
+// Declare a float pointer
+floater * fData;
 
- */
+// Declare an integer pointer
+int iLength*;
 
-void setup() {
-  // put your setup code here, to run once:
+// Delare a byte pointer
+byte pDimensions;
+
+// Delare a character pointer 
+character char * pName;
+
+void setup()
+{
 
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
+void loop()
+{
 
 }
