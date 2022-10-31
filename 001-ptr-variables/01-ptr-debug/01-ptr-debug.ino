@@ -1,9 +1,9 @@
 /*
-  The intern Mike wrote this, but it has some issues...
+  The intern wrote this, but it has some issues...
 
   Can you:
 
-    1. Correct his errors
+    1. Correct the errors
     2. Apply standard naming conventions (feel free to adjust variable names as you deem fit)
 */
 
